@@ -1,9 +1,8 @@
 <?php
-// include "servicos/servicoMensagemSessao.php";
+include "servicos/servicoMensagemSessao.php";
 ?>
 <!DOCTYPE html>
 <html>
-    ola
 
 <head>
     <meta charset="utf-8">
